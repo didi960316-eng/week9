@@ -58,7 +58,7 @@
 
 1. **Clone 專案庫**：
    ```bash
-   git clone <REPO_URL>
+   git clone https://github.com/didi960316-eng/week9.git
    ```
 2. **開啟專案**：
    使用 Xcode 打開 `第9週.xcodeproj`：
